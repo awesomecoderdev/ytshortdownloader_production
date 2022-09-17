@@ -1,0 +1,18 @@
+User-agent: *
+Disallow:
+User-Agent: googlebot
+Allow: /
+Allow: /js/
+Allow: /css/
+Disallow: /converter/
+Disallow: /files/
+
+User-Agent: *
+Allow: /
+Allow: /js/
+Allow: /css/
+Disallow: /converter/
+Disallow: /files/
+
+Sitemap: http://ytshortdownloader.com/sitemap.xml
+Host: https://ytshortdownloader.com/
